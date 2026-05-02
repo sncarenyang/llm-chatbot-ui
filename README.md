@@ -42,9 +42,11 @@ llm-chatbot-ui/
 ├── requirements.txt
 ├── app.py
 └── app/
-    ├── llm_router.py
-    ├── gemini_client.py
-    └── openai_client.py
+│    ├── llm_router.py
+│    ├── gemini_client.py
+│    └── openai_client.py
+├── .gitignore
+└── LICENSE
 ```
 
 
