@@ -1,5 +1,3 @@
-# LLM Chatbot UI (Multi-Model)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github&logoColor=white)](https://github.com/sncarenyang/llm-chatbot-ui)
 [![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAP5JREFUOE+lk7FqAkEURY+ltunEg0XX2sZGIbXfEPdLlnxJyDdYB62sbbUKpLbVNhyYFzbrrA74YJlh9r079973psed0cvUD4A+4HoCjsA85X0D/v/RBLBgBDxnQPfAEJgBY+A9gALA4tcbamSzS4xq4FOQAJgCDwV2CPKV8tZAJcAjMMkUe1vX+U+SMhfAJEHasQIWmXNN3abzDwHUrgcRGmYcgKe0bxrblHEB4E/pndMazNpSZGcsZdBlYJcEL9Afo75molJ2FxmPgmgPqlWNLGfwZGG6UiyEvLzHYDmoPkDDiNm9JR9uboiONcBXrpY1qmgs21x1QwyZcpvxt9NS09PlsPAAAAAElFTkSuQmCC&logoWidth=14)](https://huggingface.co/spaces/SNCarenYang/llm-chatbot-ui)
 [![Gradio](https://img.shields.io/badge/Gradio-UI-yellow?logo=gradio)](https://gradio.app)
@@ -137,24 +135,9 @@ AI Engineer | LLM / RAG / Applied AI
 
 ## ⭐ If you find this project interesting, feel free to star the repo!
 
-## 📊 Repository Stats
-
-[![Repo Graph](https://github-readme-stats.vercel.app/api?username=sncarenyang&repo=llm-chatbot-ui&show_icons=true&theme=radical)]
-.(https://github-readme-stats.vercel.app/api/pin/?username=sncarenyang&repo=llm-chatbot-ui)
-
-> This project is built with ❤️ using Python and deployed on Hugging Face Spaces.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sncarenyang&show_icons=true)
-
 ## 📊 Repository Statistics
-
-[![Repo stats](https://github-readme-stats.vercel.app/api/pin/?username=sncarenyang&repo=llm-chatbot-ui&theme=radical)](https://github.com/sncarenyang/llm-chatbot-ui)
-
-[![Repo Graph](https://github-readme-stats.vercel.app/api?username=sncarenyang&repo=llm-chatbot-ui&show_icons=true&theme=radical)](https://github.com/sncarenyang/llm-chatbot-ui)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sncarenyang&layout=compact&theme=radical)](https://github.com/sncarenyang/llm-chatbot-ui)
 
 
- 
+> This project is built with Python, Gradio, Gemini and OpenAI APIs, and deployed on Hugging Face Spaces.
 
- 
