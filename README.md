@@ -19,6 +19,10 @@ _______
 
 _______
 
+## 🔍 Example Output
+![llm_chatbot_ui](/images/llm_chatbot_ui.ong)
+
+
 ## 🚀 Features
  - 💬 ChatGPT-style conversation UI (chat bubbles)
  - 🧠 Conversation memory (context-aware responses)
@@ -55,6 +59,8 @@ Chat UI + Memory update
 llm-chatbot-ui/
 ├── README.md
 ├── requirements.txt
+└── images/
+│    ├── chatbot_ui.png
 ├── app.py
 └── app/
 │    ├── llm_router.py
@@ -135,8 +141,7 @@ python app.py
 
 ## 👩‍💻 Author
 
-Caren Yang
-AI Engineer | LLM / RAG / Applied AI
+Shi-Ning Caren Yang
 
 
 
