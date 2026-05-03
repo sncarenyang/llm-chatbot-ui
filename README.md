@@ -144,7 +144,7 @@ AI Engineer | LLM / RAG / Applied AI
 
 ## 📊 Repository Statistics
 
-[![Linux SysAdmin Stats](https://github-readme-stats.vercel.app/api?username=sncarenyang&repo=llm-chatbot-ui&show_icons=true&theme=radical)](https://github.com/sncarenyang/llm-chatbot-ui)
+[![llm-chatbot-ui](https://github-readme-stats.vercel.app/api?username=sncarenyang&repo=llm-chatbot-ui&show_icons=true&theme=radical)](https://github.com/sncarenyang/llm-chatbot-ui)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sncarenyang&layout=compact&theme=radical)](https://github.com/sncarenyang/llm-chatbot-ui)
 
