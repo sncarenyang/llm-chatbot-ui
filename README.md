@@ -20,7 +20,7 @@ _______
 _______
 
 ## 🔍 Example Output
-![llm_chatbot_ui](/images/llm_chatbot_ui.ong)
+![llm_chatbot_ui](/images/chatbot_ui.png)
 
 
 ## 🚀 Features
@@ -140,10 +140,11 @@ python app.py
 
 
 ## 👩‍💻 Author
-
 Shi-Ning Caren Yang
 
-
+## 🌐 License & Disclaimer
+The code is released under the MIT License.
+This portfolio is intended for educational / demonstration purposes.
 
 ## ⭐ If you find this project interesting, feel free to star the repo!
 
