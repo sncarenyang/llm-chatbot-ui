@@ -29,7 +29,7 @@ _______
 
 
  
-  ## 🧩 System Design
+## 🧩 System Design
  ```text
 User Input (Gradio UI)
         ↓
@@ -41,6 +41,13 @@ Response
         ↓
 Chat UI + Memory update
 ```
+
+## Tech Stack
+- Python
+- Gradio
+- Gemini API
+- OpenAI API
+- Hugging Face Spaces
 
 
 ## 🏗️ Project Structure
@@ -136,7 +143,11 @@ AI Engineer | LLM / RAG / Applied AI
 ## ⭐ If you find this project interesting, feel free to star the repo!
 
 ## 📊 Repository Statistics
+
+[![Linux SysAdmin Stats](https://github-readme-stats.vercel.app/api?username=sncarenyang&repo=llm-chatbot-ui&show_icons=true&theme=radical)](https://github.com/sncarenyang/llm-chatbot-ui)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sncarenyang&layout=compact&theme=radical)](https://github.com/sncarenyang/llm-chatbot-ui)
+
 
 
 > This project is built with Python, Gradio, Gemini and OpenAI APIs, and deployed on Hugging Face Spaces.
