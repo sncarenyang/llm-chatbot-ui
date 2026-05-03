@@ -20,6 +20,7 @@ _______
 _______
 
 ## 🔍 Example Output
+
 ![llm_chatbot_ui](/images/chatbot_ui.png)
 
 
